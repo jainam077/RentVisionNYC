@@ -1,0 +1,33 @@
+neighbourhood_group,neighbourhood,median_rent
+Manhattan,Harlem,2800
+Manhattan,Upper East Side,3600
+Manhattan,Upper West Side,3500
+Manhattan,Midtown,4100
+Manhattan,Murray Hill,3800
+Manhattan,Hell's Kitchen,3900
+Manhattan,Chinatown,3000
+Manhattan,East Village,3800
+Manhattan,West Village,4300
+Manhattan,Inwood,2400
+Brooklyn,Williamsburg,3200
+Brooklyn,Clinton Hill,3200
+Brooklyn,Fort Greene,3400
+Brooklyn,Crown Heights,2800
+Brooklyn,Park Slope,3800
+Brooklyn,Greenpoint,3400
+Brooklyn,Bushwick,2600
+Brooklyn,Kensington,2400
+Brooklyn,Prospect Heights,3600
+Brooklyn,Bedford-Stuyvesant,3100
+Queens,Astoria,2400
+Queens,Long Island City,3100
+Queens,Flushing,2200
+Queens,Jamaica,1900
+Queens,Forest Hills,2600
+Bronx,Parkchester,1800
+Bronx,Kingsbridge,2000
+Bronx,University Heights,1900
+Bronx,South Bronx,2100
+Staten Island,St. George,2000
+Staten Island,Stapleton,1900
+Staten Island,Tottenville,2300
